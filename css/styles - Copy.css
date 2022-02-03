@@ -1,0 +1,16 @@
+
+body{
+  background-color:#F3F0D7;
+     }
+     hr{
+
+       background-color: white;
+       border-style: none;
+       border-top-style: dotted;
+       border-width:8px;
+       width: 3%;
+     }
+     img{
+       background-color:#F3F0D;
+       border-radius:100%;
+     }

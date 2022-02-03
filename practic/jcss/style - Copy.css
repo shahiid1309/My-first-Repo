@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.main{
+  margin: auto;
+  width: 50%;
+  height: 500px;
+  background-color: #94B3FD;
+}
+.moun{
+  height: 100px;
+  width: 100px;
+}
+
+/* div{
+  background-color: #94B3FD;
+  height: 700px;
+}
+.topc{
+  position: absolute;
+  right: 400px;
+  top: 150px;
+}
+.bottomc{
+  position: absolute;
+  left: 400px;
+  top: 200px
+}
+.moun{
+  position:absolute;
+  right: 500px;
+  bottom: 200px;
+}
+
+h1{
+  padding: 100px
+  font-family: 'Merriweather', serif;
+} */

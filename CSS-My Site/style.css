@@ -1,0 +1,46 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+body{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+
+h1{
+/* margin-top: 0; */
+  /* width: 20%; */
+  /* margin: 0 auto; */
+  margin: 0 auto;
+  font-family: 'Petemoss', cursive;
+
+}
+
+
+.top-container{    
+  background-color: yellow;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.cloud-one{
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+  background-color: red;
+}
+
+
+
+.cloud-two{
+  position: absolute;
+  right:350px;
+  top:50px;
+}
